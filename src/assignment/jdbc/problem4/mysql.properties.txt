@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/role_privilege
+db.username=root
+db.password=admin
